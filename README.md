@@ -1,16 +1,14 @@
 # ANDRÉ FONSECA BORGES
 
 
-
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreborgesds/)
-
-borges.an@hotmail.com
-
 <p align="center">
   <img width="1000" height="250" src="https://diceanalytics.pk/wp-content/uploads/2019/04/1450.jpg"/>
 </p>
 
 
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreborgesds/)
+
+E-mail: borges.an@hotmail.com
 
 ## Sobre mim
 
