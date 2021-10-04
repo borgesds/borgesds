@@ -31,3 +31,5 @@ Olá, me chamo André e tenho 30 anos. Sou formado em Engenharia Civil pela Facu
 
 
 - **Machine Learning Deployment**: ![image](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) 
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
