@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img width="1000" height="250" src="https://diceanalytics.pk/wp-content/uploads/2019/04/1450.jpg"/>
+  <img width="900" height="200" src="https://diceanalytics.pk/wp-content/uploads/2019/04/1450.jpg"/>
 </p>
 
 
