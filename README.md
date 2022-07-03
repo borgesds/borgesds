@@ -1,9 +1,6 @@
 # ANDRÉ FONSECA BORGES
+![Linkedin banner geométrico azul  e preto (2)](https://user-images.githubusercontent.com/82332461/177055278-7f250ab8-4f38-4074-a2dc-03022474e0fa.png)
 
-
-<p align="center">
-  <img width="900" height="200" src="https://diceanalytics.pk/wp-content/uploads/2019/04/1450.jpg"/>
-</p>
 
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreborgesds/)
@@ -34,4 +31,6 @@ Olá, me chamo André e tenho 31 anos. Sou formado em Engenharia Civil pela Facu
 
 
 - **Machine Learning Deployment**: ![image](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) 
+
+![Uploading Capa de perfil para banner de linkedIn (1).png…]()
 
