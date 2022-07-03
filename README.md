@@ -12,7 +12,7 @@ E-mail: borges.an@hotmail.com
 
 ## Sobre mim
 
-Olá, me chamo André e tenho 31 anos. Sou formado em Engenharia Civil pela Faculdade Promove, Especialista em BIM - Manager, Big Data e Ciência de Dados e trabalho na área de dados como Auxiliar de BI, por isso foco em projetos práticos que me permitam estar mais próximo de problemas reais de negócio enfrentados pelas empresas. Busco sempre desafios que me coloquem mais próximo do meu objetivo que é me tornar um cientista de dados. Os projetos desenvolvidos ou em desenvolvimentos, buscam abordar diferentes problemas para que diferentes técnicas de machine learning posssam ser utilizadas e assim diferentes abordagens possam ser testadas. Os detalhes de cada projeto podem ser encontrados no meu repositório.
+Olá, me chamo André e tenho 31 anos. Sou formado em Engenharia Civil pela Faculdade Promove, Especialista em BIM - Manager, Big Data e Ciência de Dados e trabalho na área de dados como Auxiliar de BI, por isso foco em projetos práticos que me permitam estar mais próximo de problemas reais de negócio enfrentados pelas empresas. Busco sempre desafios que me coloquem mais próximo do meu objetivo que é me tornar um cientista de dados. Os projetos desenvolvidos ou em desenvolvimentos, buscam abordar diferentes problemas sobre o fluxo dos dados dentro das plataformas (sites, banco de dados, ciência de dados e engenharia de dados) e que posssam ser utilizadas os diferentes tipos abordagens para ser testadas e solucionadas. Os detalhes de cada projeto podem ser encontrados no meu repositório.
 
 ## Ferramentas e tecnologias
  
