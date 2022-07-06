@@ -32,5 +32,4 @@ Olá, me chamo André e tenho 31 anos. Sou formado em Engenharia Civil pela Facu
 
 - **Machine Learning Deployment**: ![image](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) 
 
-![Uploading Capa de perfil para banner de linkedIn (1).png…]()
 
