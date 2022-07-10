@@ -9,7 +9,6 @@ Olá, me chamo André e tenho 31 anos. Sou formado em Engenharia Civil pela Facu
 
 ## Ferramentas e tecnologias
  
- <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="700" height="300" />
 
 <div>
   <a href="https://github.com/borges">
@@ -26,8 +25,15 @@ Olá, me chamo André e tenho 31 anos. Sou formado em Engenharia Civil pela Facu
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="nodejs" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg">
- 
+  <img align="center" alt="postgres" height="30" width="40" src="[https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg](https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg)">
+  <img align="center" alt="mysql" height="30" width="40" src="[https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg](https://www.vectorlogo.zone/logos/mysql/mysql-official.svg)">
+  <img align="center" alt="sqlite" height="30" width="40" src="[https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg](https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg)">
+  <img align="center" alt="pandas" height="30" width="40" src="[https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg](https://pandas.pydata.org/static/img/pandas.svg)">
+  <img align="center" alt="numpy" height="30" width="40" src="[https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg](https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg)">
+  <img align="center" alt="linux" height="30" width="40" src="[https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg](https://www.vectorlogo.zone/logos/linux/linux-icon.svg)">
+  <img align="center" alt="jupyter" height="30" width="40" src="[https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg](https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg)">
+  <img align="center" alt="git" height="30" width="40" src="h[ttps://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)">
+  
     
 </div>
   <br>
@@ -36,15 +42,4 @@ Olá, me chamo André e tenho 31 anos. Sou formado em Engenharia Civil pela Facu
  <h4>E-mail: borges.an@hotmail.com</h4>
 </div>
 
-- **Coleta de dados**: ![image](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) ![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-- **Processamento e análise de dados**: ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
-![image](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![image](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-
-- **Desenvolvimento**: ![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![image](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
-![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-  
-- **Machine Learning**: ![image](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) (Classificação, Regressão, Clusterização)
+ <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="1000" height="400" />
