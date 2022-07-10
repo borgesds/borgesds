@@ -25,10 +25,11 @@ Olá, me chamo André e tenho 31 anos. Sou formado em Engenharia Civil pela Facu
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="postgres" height="30" width="40" src="[https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg](https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg)">
-  <img align="center" alt="mysql" height="30" width="40" src="[https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg](https://www.vectorlogo.zone/logos/mysql/mysql-official.svg)">
-  <img align="center" alt="sqlite" height="30" width="40" src="[https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg](https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg)">
-  <img align="center" alt="pandas" height="30" width="40" src="[https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg](https://pandas.pydata.org/static/img/pandas.svg)">
+  <img align="center" alt="nodejs" height="30" width="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
+  <img align="center" alt="postgres" height="30" width="40" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg">
+  <img align="center" alt="mysql" height="30" width="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg">
+  <img align="center" alt="sqlite" height="30" width="40" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg">
+  <img align="center" alt="pandas" height="30" width="40" src="[https://pandas.pydata.org/static/img/pandas.svg](https://i.redd.it/c6h7rok9c2v31.jpg)">
   <img align="center" alt="numpy" height="30" width="40" src="[https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg](https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg)">
   <img align="center" alt="linux" height="30" width="40" src="[https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg](https://www.vectorlogo.zone/logos/linux/linux-icon.svg)">
   <img align="center" alt="jupyter" height="30" width="40" src="[https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg](https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg)">
