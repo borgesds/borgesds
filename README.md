@@ -28,12 +28,13 @@ Olá, me chamo André e tenho 31 anos. Sou formado em Engenharia Civil pela Facu
   <img align="center" alt="nodejs" height="30" width="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
   <img align="center" alt="postgres" height="30" width="40" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg">
   <img align="center" alt="mysql" height="30" width="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg">
-  <img align="center" alt="sqlite" height="30" width="40" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg">
-  <img align="center" alt="pandas" height="30" width="40" src="[https://pandas.pydata.org/static/img/pandas.svg](https://i.redd.it/c6h7rok9c2v31.jpg)">
-  <img align="center" alt="numpy" height="30" width="40" src="[https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg](https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg)">
-  <img align="center" alt="linux" height="30" width="40" src="[https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg](https://www.vectorlogo.zone/logos/linux/linux-icon.svg)">
-  <img align="center" alt="jupyter" height="30" width="40" src="[https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg](https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg)">
-  <img align="center" alt="git" height="30" width="40" src="h[ttps://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)">
+  <img align="center" alt="sqlite" height="30" width="40" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg">
+  <img align="center" alt="pandas" height="30" width="100" src="https://i.redd.it/c6h7rok9c2v31.jpg">
+  <img align="center" alt="numpy" height="30" width="40" src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png">
+  <img align="center" alt="linux" height="30" width="40" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg">
+  <img align="center" alt="jupyter" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn2rk9CBKtiLAEKhtgGw48P2iFtJ7MjeYyN2-CvEQW4j8KcjTmv5AwwrynXovtwBXEgsg&usqp=CAU">
+  <img align="center" alt="git" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+  <img align="center" alt="powerBI" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
   
     
 </div>
