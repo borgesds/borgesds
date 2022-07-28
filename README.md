@@ -44,4 +44,4 @@ Olá, me chamo André e tenho 31 anos. Sou formado em Engenharia Civil pela Facu
  <h4>E-mail: borges.an@hotmail.com</h4>
 </div>
 
- <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="1000" height="400" />
+ <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="900" height="400" />
