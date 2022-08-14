@@ -2,22 +2,17 @@
 ![Linkedin banner geométrico azul  e preto (2)](https://user-images.githubusercontent.com/82332461/177055278-7f250ab8-4f38-4074-a2dc-03022474e0fa.png)
 
 
+<h3> :woman: &nbsp;Sobre mim </h3>
 
-## Sobre mim
+- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções Web e Dados.
+- 🎓 &nbsp; 
+     - Graduado **Engenharia Civil**,
+          - Pós em **Desenvolvimento e Gerenciamento de Projetos em BIM - BIM MANAGER** e **Big Data Ciência de Dados**.
+- 💼 &nbsp; Trabalhando como **AUXILIAR DE BUSINESS INTELLIGENCE** na Proativa Contact Center
+- 🌱 &nbsp; Tecnologias que estou aprendendo ou aprimorando: **NodeJS, Java, Django, MongoDB e SQL**.
 
-Olá, me chamo André e tenho 31 anos. Sou formado em Engenharia Civil pela Faculdade Promove, Especialista em BIM - Manager, Big Data e Ciência de Dados e trabalho na área de dados como Auxiliar de BI, por isso foco em projetos práticos que me permitam estar mais próximo de problemas reais de negócio enfrentados pelas empresas. Busco sempre desafios que me coloquem mais próximo do meu objetivo que é me tornar um cientista de dados. Os projetos desenvolvidos ou em desenvolvimentos, buscam abordar diferentes problemas sobre o fluxo dos dados dentro das plataformas (sites, banco de dados, ciência de dados e engenharia de dados) e que posssam ser utilizadas os diferentes tipos abordagens para ser testadas e solucionadas. Os detalhes de cada projeto podem ser encontrados no meu repositório.
+<h3> :rocket: &nbsp;Minhas Skills </h3>
 
-## Ferramentas e tecnologias
- 
-
-<div>
-  <a href="https://github.com/borgesds">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=borgesds&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=borgesds&layout=compact&langs_count=7&theme=react" />
-
-  <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
-</div>
- <br>
 <div  align="center"> 
   <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -35,9 +30,22 @@ Olá, me chamo André e tenho 31 anos. Sou formado em Engenharia Civil pela Facu
   <img align="center" alt="sqlite" height="30" width="40" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg">
   <img align="center" alt="git" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
   <img align="center" alt="powerBI" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
-  
-    
+   
 </div>
+<br>
+
+## Ferramentas e tecnologias
+ 
+
+<div>
+  <a href="https://github.com/borgesds">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=borgesds&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=borgesds&layout=compact&langs_count=7&theme=react" />
+
+  <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
+</div>
+ <br>
+
   <br>
   <a href="https://www.linkedin.com/in/andreborgesds/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
