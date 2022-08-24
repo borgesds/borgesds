@@ -2,7 +2,7 @@
 ![Linkedin banner geométrico azul  e preto (2)](https://user-images.githubusercontent.com/82332461/177055278-7f250ab8-4f38-4074-a2dc-03022474e0fa.png)
 
 
-<h3> :woman: &nbsp;Sobre mim </h3>
+<h3> :man: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções Web e Dados.
 - 🎓 &nbsp; 
