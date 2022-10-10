@@ -8,7 +8,7 @@
 - 🎓 &nbsp; 
      - Graduado **Engenharia Civil**,
           - Pós em **Desenvolvimento e Gerenciamento de Projetos em BIM - BIM MANAGER** e **Big Data Ciência de Dados**.
-- 💼 &nbsp; Trabalhando como **AUXILIAR DE BUSINESS INTELLIGENCE** na Proativa Contact Center
+- 💼 &nbsp; Trabalhando como **ASSISTENNTE DE BUSINESS INTELLIGENCE** na Proativa Contact Center
 - 🌱 &nbsp; Tecnologias que estou aprendendo ou aprimorando: **NodeJS, Java, Django, MongoDB e SQL**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
