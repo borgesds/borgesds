@@ -9,7 +9,7 @@
      - Graduado **Engenharia Civil**,
           - Pós em **Desenvolvimento e Gerenciamento de Projetos em BIM - BIM MANAGER** e **Big Data Ciência de Dados**.
 - 💼 &nbsp; Trabalhando como **ASSISTENTE DE BUSINESS INTELLIGENCE** na Proativa Contact Center
-- 🌱 &nbsp; Tecnologias que estou aprendendo ou aprimorando: **React, Typescript, NodeJS, Java, Django, MongoDB e SQL**.
+- 🌱 &nbsp; Tecnologias que estou aprendendo ou aprimorando: **React, Typescript, NodeJS, Django, MongoDB e SQL**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
@@ -23,7 +23,6 @@
    <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="nodejs" height="30" width="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
   <img align="center" alt="postgres" height="30" width="40" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg">
   <img align="center" alt="mysql" height="30" width="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg">
