@@ -1,7 +1,7 @@
 # ANDRÉ FONSECA BORGES
 ![Linkedin banner geométrico azul  e preto (2)](https://user-images.githubusercontent.com/82332461/177055278-7f250ab8-4f38-4074-a2dc-03022474e0fa.png)
 
-![Snake animation](https://github.com/borgesds/borgesds/blob/output/github-contribution-grid-snake.svg)
+
 
 <h3> :man: &nbsp;Sobre mim </h3>
 
