@@ -4,7 +4,6 @@
 ![Snake animation](https://github.com/borgesds/borgesds/blob/output/github-contribution-grid-snake.svg)
 
 <h3> :man: &nbsp;Sobre mim </h3>
-[Uploading borgesds-2022.stl…]()
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções Web e Dados.
 - 🎓 &nbsp; 
