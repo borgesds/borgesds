@@ -27,6 +27,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="react" height="30" width="30" src="https://img.icons8.com/officel/512/react.png">
   <img align="center" alt="nodejs" height="30" width="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
+       <img align="center" alt="mysql" height="30" width="40" src="https://www.fullconvert.com/images/icons/databases/96/vertica.webp">
   <img align="center" alt="postgres" height="30" width="40" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg">
   <img align="center" alt="mysql" height="30" width="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg">
   <img align="center" alt="sqlite" height="30" width="40" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg">
