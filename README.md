@@ -10,8 +10,8 @@
 - 🎓 &nbsp; 
      - Graduado **Engenharia Civil**,
           - Pós em **Desenvolvimento e Gerenciamento de Projetos em BIM - BIM MANAGER** e **Big Data Ciência de Dados**.
-- 💼 &nbsp; Trabalhando como **ASSISTENTE DE BUSINESS INTELLIGENCE** na Demarco
-- 🌱 &nbsp; Tecnologias que estou aprendendo ou aprimorando: **React, Typescript, NodeJS, JAVA, Django, MongoDB e SQL**.
+- 💼 &nbsp; Trabalhando como **ENGENHEIRO DE DADOS N7** na Demarco
+- 🌱 &nbsp; Tecnologias que estou aprendendo ou aprimorando: **Machine Learning, MongoDB**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
