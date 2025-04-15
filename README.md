@@ -10,7 +10,7 @@
 - 🎓 &nbsp; 
      - Graduado **Engenharia Civil**,
           - Pós em **Desenvolvimento e Gerenciamento de Projetos em BIM - BIM MANAGER** e **Big Data Ciência de Dados**.
-- 💼 &nbsp; Trabalhando como **ENGENHEIRO DE DADOS N7** na Demarco
+- 💼 &nbsp; Trabalhando como **ENGENHEIRO DE DADOS EN2** na Demarco
 - 🌱 &nbsp; Tecnologias que estou aprendendo ou aprimorando: **Machine Learning, MongoDB**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
